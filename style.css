@@ -7,7 +7,7 @@
 }
 .back-back{
     /* background-color:rgba(0, 0, 0, 0.5) */
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('header-background.jpg') no-repeat center center;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./image/header-background.jpg') no-repeat center center;
     height:50rem;
     background-size: cover; 
 }
